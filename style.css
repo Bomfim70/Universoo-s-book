@@ -7,5 +7,5 @@
 body {
     background-color: var(--preto);
     color: var(--branco);
-    font-size: var(--fonte principal);
+    font-size: var(--font-size);
 }
