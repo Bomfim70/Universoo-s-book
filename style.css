@@ -1,7 +1,9 @@
 
 @import url(" .styles/header.css");
-:root {
+@import url("styles/banner.css");
+@import url("styles/carrossel.css");
 
+:root {
 --preto: #000000;
 --font-size: 'Poppin', 'sans serif';
 --branco: #FFFFFF;
